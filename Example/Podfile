@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BarLib_Example' do
+  pod 'BarLib', :path => '../'
+
+  target 'BarLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
