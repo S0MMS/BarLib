@@ -8,11 +8,16 @@
 
 import UIKit
 
+import BarLib
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        print("yea")
+        MyUtil.doSomeStuff()
+        
     }
 
     override func didReceiveMemoryWarning() {

@@ -1,0 +1,6 @@
+framework module BarLib {
+  umbrella header "BarLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

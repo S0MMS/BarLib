@@ -7,6 +7,9 @@
 
 import UIKit
 
-class MyUtil: NSObject {
+public class MyUtil: NSObject {
 
+    public static func doSomeStuff() {
+        print("cool stuff!")
+    }
 }

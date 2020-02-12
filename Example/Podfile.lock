@@ -1,0 +1,16 @@
+PODS:
+  - BarLib (0.1.0)
+
+DEPENDENCIES:
+  - BarLib (from `../`)
+
+EXTERNAL SOURCES:
+  BarLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BarLib: e06efcbb52ec9b995e2f37add6a90d15e1d3a04a
+
+PODFILE CHECKSUM: 1e2ec59462b8013323ad58dc84427ff3c62fe429
+
+COCOAPODS: 1.8.4
