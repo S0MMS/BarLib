@@ -28,3 +28,4 @@ S0MMS, cshreve@rei.com
 
 BarLib is available under the MIT license. See the LICENSE file for more info.
 # BarLib
+# MySpecRepo
